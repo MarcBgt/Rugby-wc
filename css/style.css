@@ -3,10 +3,16 @@
 	color: black;
 	margin: 10px;
 	padding: 10px;
-	font-size:35px;
+	font-size:25px;
 	font-family: 'Noto Sans', sans-serif;
-	border:2px solid black;
+	transition: 0.5s;
+	
 
+}
+button.poule:hover{
+	background-color: #D9E8F5;
+	font-size: 30px;
+	transition: 0.5s;
 }
 h1{
 	text-align: center;
