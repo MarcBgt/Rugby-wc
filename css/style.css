@@ -13,6 +13,7 @@ button.poule:hover{
 	background-color: #D9E8F5;
 	font-size: 30px;
 	transition: 0.5s;
+	border-radius: 10%;
 }
 h1{
 	text-align: center;
