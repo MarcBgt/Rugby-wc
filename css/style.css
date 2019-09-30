@@ -1,35 +1,54 @@
 .poule{
-	background-color:#80FFB1 ;
+	background-color:#99A9CE;
 	color: black;
 	margin: 10px;
 	padding: 10px;
-	font-size:25px;
+	font-size:20px;
 	font-family: 'Noto Sans', sans-serif;
 	transition: 0.5s;
-	
-
+	border-radius: 10%
 }
+
 button.poule:hover{
-	background-color: #D9E8F5;
-	font-size: 30px;
+	background-color: #CCCCFF;
+	font-size: 25px;
 	transition: 0.5s;
 	border-radius: 10%;
+	margin:5px;
 }
+
 h1{
 	text-align: center;
-	text-shadow: 2px 2px 5px rgba(0,0,0,0.5)
+	text-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+	color:#37519C;
+	border-bottom: 2px solid  #CCCCFF;
+	margin:5px;
+	padding: 5px;
+	font-family: 'Noto Sans', sans-serif;
 }
+span{
+	border-top:2px solid #CCCCFF;
+	border-right:2px solid #CCCCFF;
+}
+
 img.displayed{
  display: block;
  margin-left: auto;
  margin-right: auto;
  height: 200px;
  width: auto;
-
 }
 
 .intro{
 	text-align: center;
 	padding: 5px;
 	margin: 5px;
+	border-top: 2px solid  #CCCCFF;
+	border-bottom: 2px solid  #CCCCFF;
+	font-family: 'Noto Sans', sans-serif;
+}
+
+img.oss{
+	margin: 25px;
+	padding:15px;
 }
