@@ -1,10 +1,14 @@
+body{
+	color: rgb(50,50,50);
+	font-family: 'Noto Sans', sans-serif;
+	background-color: #FFFFFF;
+}
 .poule{
 	background-color:#99A9CE;
-	color: black;
+	color: rgb(50,50,50);
 	margin: 10px;
 	padding: 10px;
 	font-size:20px;
-	font-family: 'Noto Sans', sans-serif;
 	transition: 0.5s;
 	border-radius: 10%
 }
@@ -24,7 +28,7 @@ h1{
 	border-bottom: 3px solid  #CCCCFF;
 	margin:5px;
 	padding: 5px;
-	font-family: 'Noto Sans', sans-serif;
+	
 }
 span.h1{
 	border-top:3px solid #CCCCFF;
@@ -48,8 +52,9 @@ img.displayed{
 	margin: 5px;
 	border-top: 3px solid  #CCCCFF;
 	border-bottom: 3px solid  #CCCCFF;
-	font-family: 'Noto Sans', sans-serif;
-}
+	font-weight: 700;
+	
+	}
 
 img.oss{
 	margin: 25px;
