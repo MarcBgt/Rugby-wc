@@ -30,6 +30,11 @@ h1{
 	padding: 5px;
 	
 }
+h3{
+	font-size: 20px;
+	text-decoration: underline;
+}
+
 span.h1{
 	border-top:3px solid #CCCCFF;
 	border-right:3px solid #CCCCFF;
@@ -57,8 +62,10 @@ img.displayed{
 	}
 
 img.oss{
-	margin: 25px;
-	padding:15px;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+
 }
 img.drapeau{
 	height: 18px;
@@ -78,5 +85,54 @@ img.drapeau{
 }
 #tablejapon{
 	background-color: #CCCCFF;
+}	
+ul.unstyled{
+	list-style: none;
+	text-align: center;
 }
 
+li.titreliste{
+	padding: 5px;
+	text-decoration: underline;
+}
+span.score{
+ color: white;
+ background-color:#635B54;
+ padding: 4px;
+ margin: 8px;
+ vertical-align: middle;
+}
+
+li.resultatsemaine{
+	padding: 3px;
+	margin: 3px;
+}
+img.carouselbtn{
+	height: 40px;
+	width: auto;
+}
+
+span.date{
+	background-color:#EEEEEE;
+	padding: 4px;
+	margin: 8px; 
+}
+.carousel-indicators {
+  bottom:-50px;
+}
+.carousel-inner {
+   margin-bottom:50px;
+}
+
+span.loser{
+	opacity: 0.65;
+}
+p.resultatgroupeB{
+	text-align: center;
+}
+div.paysgauche{
+	padding-left: 5px;
+}
+.rowborder{
+	border-bottom: 1px solid #CCCCFF;
+}
