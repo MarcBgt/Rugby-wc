@@ -55,3 +55,23 @@ img.oss{
 	margin: 25px;
 	padding:15px;
 }
+img.drapeau{
+	height: 18px;
+	width: 24px;
+	padding: 3px;
+
+}
+.table{
+	background-color: #F9F9F9;
+}
+
+.titretable{
+	background-color:#99A9CE; 
+}
+.table-qualif{
+	background-color: #CCCCFF;
+}
+#tablejapon{
+	background-color: #CCCCFF;
+}
+
