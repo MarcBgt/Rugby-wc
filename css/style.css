@@ -26,7 +26,7 @@ h1{
 	text-shadow: 1px 1px 3px #C4BABA;
 	color:#37519C;
 	border-bottom: 3px solid  #CCCCFF;
-	margin:5px;
+	margin:15px;
 	padding: 5px;
 	
 }
@@ -40,38 +40,56 @@ span.h1{
 	border-top:3px solid #CCCCFF;
 	border-right:3px solid #CCCCFF;
 }
+.centrer{
+	display: block;
+	margin-left: 150px;
+	margin-right: 50px;
+}
 
-img.displayed{
- display: block;
- margin: auto;
+img.displayed{ 
+display:block;
  height: 200px;
  width: auto;
+ margin:0px auto;
+
 }
 .divlogo{
+	display: inline-block;
 	background-color:#99A9CE;
 	width: 500px;
-	margin:20px auto;
+	height: 250px;
 	border-radius: 50px;
 	box-shadow: 2px 2px 5px #C4BABA ;
-	padding: 15px
+	padding: 15px;
+	margin: 15px;
 
 }
 
 .intro{
 	text-align: center;
 	padding: 5px;
-	margin: 5px;
+	margin: 15px;
 	border-top: 3px solid  #CCCCFF;
 	border-bottom: 3px solid  #CCCCFF;
 	font-weight: 700;
+}
+.alignementlogo{
+	display: block;
+	margin-left: 20px;
+	margin-right: 15px
+	margin-top:15px;
+	margin-bottom: 15px;
 }
 
 img.drapeau{
 	height: 18px;
 	width: 24px;
-	padding: 3px;
-
-}
+	}
+img.equipelogo{
+	height: 70px;
+	width: 70px ;
+	margin: 15px;
+	}
 .table{
 	background-color: #F9F9F9;
 }
