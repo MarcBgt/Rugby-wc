@@ -23,7 +23,7 @@ button.poule:hover{
 
 h1{
 	text-align: center;
-	text-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+	text-shadow: 1px 1px 3px #C4BABA;
 	color:#37519C;
 	border-bottom: 3px solid  #CCCCFF;
 	margin:5px;
@@ -43,13 +43,18 @@ span.h1{
 
 img.displayed{
  display: block;
- margin-left: auto;
- margin-right: auto;
+ margin: auto;
  height: 200px;
  width: auto;
 }
 .divlogo{
 	background-color:#99A9CE;
+	width: 500px;
+	margin:20px auto;
+	border-radius: 50px;
+	box-shadow: 2px 2px 5px #C4BABA ;
+	padding: 15px
+
 }
 
 .intro{
@@ -59,15 +64,8 @@ img.displayed{
 	border-top: 3px solid  #CCCCFF;
 	border-bottom: 3px solid  #CCCCFF;
 	font-weight: 700;
-	
-	}
-
-img.oss{
- display: block;
- margin-left: auto;
- margin-right: auto;
-
 }
+
 img.drapeau{
 	height: 18px;
 	width: 24px;
