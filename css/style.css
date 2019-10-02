@@ -85,11 +85,13 @@ img.drapeau{
 	height: 18px;
 	width: 24px;
 	}
-img.equipelogo{
+
+img.equipelogo {
 	height: 70px;
 	width: 70px ;
 	margin: 15px;
 	}
+	
 .table{
 	background-color: #F9F9F9;
 }
