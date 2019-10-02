@@ -45,8 +45,8 @@ span.h1{
 }
 .centrer{
 	display: block;
-	margin-left: 150px;
-	margin-right: 50px;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 img.displayed{ 
@@ -59,7 +59,7 @@ display:block;
 .divlogo{
 	display: inline-block;
 	background-color:#99A9CE;
-	width: 500px;
+	width: 600px;
 	height: 250px;
 	border-radius: 50px;
 	padding: 15px;
@@ -78,7 +78,7 @@ display:block;
 }
 .alignementlogo{
 	display: block;
-	margin-left: 20px;
+	margin-left: 15px;
 	margin-right: 15px
 	margin-top:15px;
 	margin-bottom: 15px;
