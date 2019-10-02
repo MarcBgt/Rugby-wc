@@ -3,6 +3,7 @@ body{
 	font-family: 'Noto Sans', sans-serif;
 	background-color: #FFFFFF;
 }
+
 .poule{
 	background-color:#99A9CE;
 	color: rgb(50,50,50);
@@ -27,9 +28,9 @@ h1{
 	color:#37519C;
 	border-bottom: 3px solid  #CCCCFF;
 	margin:15px;
-	padding: 5px;
-	
+	padding: 5px;	
 }
+
 h3{
 	font-size: 15px;
 	text-decoration: underline;
@@ -92,7 +93,7 @@ img.equipelogo {
 	height: 70px;
 	width: 70px ;
 	margin: 15px;
-	}
+}
 
 .table{
 	background-color: #F9F9F9;
@@ -116,6 +117,7 @@ li.titreliste{
 	padding: 5px;
 	text-decoration: underline;
 }
+
 span.score{
  color: white;
  background-color:#635B54;
@@ -128,6 +130,7 @@ li.resultatsemaine{
 	padding: 3px;
 	margin: 3px;
 }
+
 img.carouselbtn{
 	height: 40px;
 	width: auto;
@@ -138,9 +141,11 @@ span.date{
 	padding: 4px;
 	margin: 8px; 
 }
+
 .carousel-indicators {
   bottom:-50px;
 }
+
 .carousel-inner {
    margin-bottom:50px;
 }
@@ -148,12 +153,15 @@ span.date{
 span.loser{
 	opacity: 0.65;
 }
+
 p.resultatgroupeB{
 	text-align: center;
 }
+
 div.paysgauche{
 	padding-left: 5px;
 }
+
 .rowborder{
 	border-bottom: 1px solid #CCCCFF;
 }
