@@ -84,6 +84,8 @@ display:block;
 img.drapeau{
 	height: 18px;
 	width: 24px;
+	padding: 3px;
+	margin:3px;
 	}
 
 img.equipelogo {
@@ -91,7 +93,7 @@ img.equipelogo {
 	width: 70px ;
 	margin: 15px;
 	}
-	
+
 .table{
 	background-color: #F9F9F9;
 }
