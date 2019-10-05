@@ -39,14 +39,11 @@ h3{
 	color:#37519C;
 }
 
-span.h1{
-	border-top:3px solid #CCCCFF;
-	border-right:3px solid #CCCCFF;
-}
+	
 .centrer{
 	display: block;
-	margin-left: 10px;
-	margin-right: 10px;
+	margin-left: 15px;
+	margin-right:15px;
 }
 
 img.displayed{ 
@@ -56,25 +53,31 @@ display:block;
  margin:0px auto;
 
 }
-.divlogo{
+.block{
 	display: inline-block;
 	background-color:#99A9CE;
 	width: 600px;
 	height: 250px;
 	border-radius: 50px;
-	padding: 15px;
-	margin: 15px;
+	padding: 5px;
+	margin: 5px;
 	border:2px solid #37519C;
 
 }
 
 .intro{
-	text-align: center;
-	padding: 5px;
+	padding: 15px;
 	margin: 15px;
 	border-top: 3px solid  #CCCCFF;
 	border-bottom: 3px solid  #CCCCFF;
 	font-weight: 700;
+}
+.dialogue{
+	padding: 5px;
+}	
+
+.clear{
+	clear: left;
 }
 .alignementlogo{
 	display: block;
